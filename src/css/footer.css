@@ -1,0 +1,103 @@
+/* Footer section */
+.footer {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+.footer-logo h2 {
+    color: white;
+    font-size: 30px;
+    margin: 10px;
+}
+
+/* Footer list section */
+.footer-list ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 30px;
+}
+
+.footer-list ul li {
+    padding: 10px 0;
+}
+
+.footer-list ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.footer-list ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Footer buttons */
+.footer-content {
+    margin-top: 20px;
+}
+
+.footer-content button {
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.footer-content button:hover {
+    background-color: white;
+    color: black;
+}
+
+/* Media Queries for Responsiveness */
+
+/* For screens smaller than 768px (tablets and phones) */
+@media (max-width: 768px) {
+    .footer {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-list {
+        margin: 20px 0;
+        text-align: center;
+    }
+
+    .footer-list ul li {
+        padding: 5px 0;
+    }
+
+    .footer-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .footer-content button {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+/* For screens smaller than 480px (phones) */
+@media (max-width: 480px) {
+    .footer-logo h2 {
+        font-size: 24px;
+    }
+
+    .footer-list ul li a {
+        font-size: 14px;
+    }
+
+    .footer-content button {
+        padding: 8px 15px;
+    }
+}

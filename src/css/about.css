@@ -1,0 +1,218 @@
+ /* about section*/
+
+ .body{
+    margin: 0px;
+}
+
+.about {
+    background-color: black;
+    display:flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.about-content h2{
+    color: white;
+    font-size: 40px;
+    padding-top: 50px;
+}
+
+.about-content p{
+    color: white;
+    padding-top: 3px;
+    padding-right: 50px;
+    font-size: medium;
+    line-height: 30px;
+}
+
+.about-content button{
+    background-color:transparent;
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 60px;
+}
+
+.about-content button:hover{
+    background-color: rgb(234, 232, 232);
+    border-color: transparent;
+    color: black;
+}
+
+.about img{
+    position: relative;
+    width: 25em;  
+    padding: 50px;
+}
+
+ /* about-shop section*/
+
+.about-shop {
+    background-color: rgb(255, 255, 255);
+    display:flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.about-shop h2{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.about-shop p{
+    color: rgb(0, 0, 0);
+    padding-top: 3px;
+    padding-left: 50px;
+    font-size: medium;
+    line-height: 30px;
+}
+
+.about-shop button{
+    background-color:transparent;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 60px;
+}
+
+.about-shop button:hover{
+    background-color: rgb(234, 232, 232);
+    border-color: transparent;
+    color: black;
+}
+
+.about-shop img{
+    position: relative;
+    width: 40em;  
+    padding: 50px;
+}
+
+/* 3rd section*/
+
+
+.special {
+    background-color: #0d0d0d;
+    display:flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.special-content h2{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    padding-left: 50px;
+    padding-top: 50px;
+    position: relative;
+}
+
+.special-content p{
+    color: rgb(255, 255, 255);
+    padding-top: 3px;
+    font-size: medium;
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 30px;
+}
+
+.special img{
+    position: relative;
+    width: 30em;  
+    
+}
+
+.special-content button{
+    background-color:transparent;
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 60px;
+}
+
+.special-content button:hover{
+    background-color: rgb(234, 232, 232);
+    border-color: transparent;
+    color: black;
+}
+
+/* 4th section*/
+
+.cake {
+    background-color: #ffffff;
+    display:flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.cake-content h2{
+    color: black;
+    font-size: 40px;
+    padding-top: 50px;
+    position: relative;
+    padding-left: 10em;
+}
+
+.cake img{
+    position: relative;
+    width: 20em;  
+    padding: 20px;
+    margin-left: 50px;
+}
+
+
+/* 5th section*/
+
+.review {
+    background-color: #ffffff;
+    display:flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.review-content h3{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    position: relative;
+}
+
+.review-content p{
+    color: rgb(0, 0, 0);
+    padding-top: 3px;
+    font-size: medium;
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 30px;
+}
+
+.review-content button{
+    background-color:transparent;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 60px;
+}
+
+.review-content button:hover{
+    background-color: rgb(234, 232, 232);
+    border-color: transparent;
+    color: black;
+}
