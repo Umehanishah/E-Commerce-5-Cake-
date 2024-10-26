@@ -23,7 +23,7 @@ export default function Order() {
 
 
                       <div className="order-img">
-                      <img src="/order.jpg" alt="cake" />
+                      <img src="/order.jpg" alt="cake"/>
                       </div>
               
           </section>
@@ -38,37 +38,35 @@ export default function Order() {
                     <div className="cake-img">
                     <h3><u><i>Pasteries</i></u></h3>
                        
-                            <img src="/img-3.jpg" alt="cake" />
+                            <img src="/img-3.jpg" alt="cake"/>
                             
-                           
-                            <img src="/img-4.jpg" alt="cake" />
+                            <img src="/img-4.jpg" alt="cake"/>
                          
-                        
-                            <img src="/img-5.jpg" alt="cake" />
+                            <img src="/img-5.jpg" alt="cake"/>
                            
-                            <img src="/img-6.jpg" alt="cake" />
+                            <img src="/img-6.jpg" alt="cake"/>
                             
-                            <img src="/img-7.jpg" alt="cake" />
+                            <img src="/img-7.jpg" alt="cake"/>
                             
-                            <img src="/img-8.jpg" alt="cake" />
+                            <img src="/img-8.jpg" alt="cake"/>
                             
-                            <img src="/img-9.jpg" alt="cake" />
+                            <img src="/img-9.jpg" alt="cake"/>
                             
-                            <img src="/img-10.jpg" alt="cake" />
+                            <img src="/img-10.jpg" alt="cake"/>
                             
-                            <img src="/img-11.jpg" alt="cake" />
+                            <img src="/img-11.jpg" alt="cake"/>
                             
-                            <img src="/img-13.jpg" alt="cake" />
+                            <img src="/img-13.jpg" alt="cake"/>
                             
-                            <img src="/img-14.jpg" alt="cake" />
+                            <img src="/img-14.jpg" alt="cake"/>
                             
-                            <img src="/img-15.jpg" alt="cake" />
+                            <img src="/img-15.jpg" alt="cake"/>
                             
-                            <img src="/img-16.jpg" alt="cake" />
+                            <img src="/img-16.jpg" alt="cake"/>
                             
-                            <img src="/img-17.jpg" alt="cake" />
+                            <img src="/img-17.jpg" alt="cake"/>
                             
-                            <img src="/img-18.jpg" alt="cake" />
+                            <img src="/img-18.jpg" alt="cake"/>
 
                         
                         </div>  
@@ -81,18 +79,18 @@ export default function Order() {
           <div className="cake-img">
                     <h3><u><i>Cakes</i></u></h3>
                    
-                     <img src="/order-1.jpg" alt="cake" />
-                     <img src="/order-2.jpg" alt="cake" />
-                     <img src="/order-3.jpg" alt="cake" />
-                     <img src="/order-4.jpg" alt="cake" />
-                     <img src="/order-5.jpg" alt="cake" />
-                     <img src="/order-6.jpg" alt="cake" />
-                     <img src="/order-7.jpg" alt="cake" />
-                     <img src="/order-9.jpg" alt="cake" />
-                     <img src="/order-10.jpg" alt="cake" />
-                     <img src="/order-11.jpg" alt="cake" />
-                     <img src="/order-12.jpg" alt="cake" />
-                     <img src="/order-13.jpg" alt="cake" />
+                     <img src="/order-1.jpg" alt="cake"/>
+                     <img src="/order-2.jpg" alt="cake"/>
+                     <img src="/order-3.jpg" alt="cake"/>
+                     <img src="/order-4.jpg" alt="cake"/>
+                     <img src="/order-5.jpg" alt="cake"/>
+                     <img src="/order-6.jpg" alt="cake"/>
+                     <img src="/order-7.jpg" alt="cake"/>
+                     <img src="/order-9.jpg" alt="cake"/>
+                     <img src="/order-10.jpg" alt="cake"/>
+                     <img src="/order-11.jpg" alt="cake"/>
+                     <img src="/order-12.jpg" alt="cake"/>
+                     <img src="/order-13.jpg" alt="cake"/>
                     
                                 
               </div>
@@ -103,12 +101,12 @@ export default function Order() {
           <div className="cake-img">
           <h3><u><i>Pasteries</i></u></h3>
 
-                     <img src="/order-14.jpg" alt="cake" />
-                     <img src="/order-15.jpg" alt="cake" />
-                     <img src="/order-16.jpg" alt="cake" />
-                     <img src="/order-17.jpg" alt="cake" />
-                     <img src="/order-18.jpg" alt="cake" />
-                     <img src="/order-19.jpg" alt="cake" />
+                     <img src="/order-14.jpg" alt="cake"/>
+                     <img src="/order-15.jpg" alt="cake"/>
+                     <img src="/order-16.jpg" alt="cake"/>
+                     <img src="/order-17.jpg" alt="cake"/>
+                     <img src="/order-18.jpg" alt="cake"/>
+                     <img src="/order-19.jpg" alt="cake"/>
                      </div>  
                                 
             

@@ -12,7 +12,7 @@ export default function Shop() {
           <section className="shop">
               
                    <div className="shop-img">
-                     <img src="/shop-1.jpeg" alt="cake" />
+                     <img src="/shop-1.jpeg" alt="cake"/>
                       </div>
               
               
@@ -47,7 +47,7 @@ export default function Shop() {
                  </div>
 
                  <div className="about-shop-img">
-                <img src="/about-2.jpeg" alt="shop" />
+                <img src="/about-2.jpeg" alt="shop"/>
                  </div>
          
              </section>
@@ -56,7 +56,7 @@ export default function Shop() {
             <section className="special">
               
               <div className="special-img">
-                <img src="/about-3.jpg" alt="cake" />
+                <img src="/about-3.jpg" alt="cake"/>
                  </div>
          
          
@@ -101,7 +101,7 @@ export default function Shop() {
                  </div>
 
                  <div className="about-shop-img">
-                <img src="/shop-2.webp" alt="shop" />
+                <img src="/shop-2.webp" alt="shop"/>
                  </div>
          
              </section>

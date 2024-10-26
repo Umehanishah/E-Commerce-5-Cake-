@@ -24,7 +24,7 @@ export default function Home() {
                  </div>
          </div>
          <div className="home-img">
-                <img src="/img-1.jpg" alt="cake" />
+                <img src="/img-1.jpg" alt="cake"/>
                  </div>
      </section>
 
@@ -33,7 +33,7 @@ export default function Home() {
           <section className="about">
               
                    <div className="about-img">
-                     <img src="/img-2.jpg" alt="cake" />
+                     <img src="/img-2.jpg" alt="cake"/>
                       </div>
               
               
@@ -60,15 +60,15 @@ export default function Home() {
                  
                     </div>
                     <div>
-                     <img src="/img-3.jpg" alt="cake" />
-                     <img src="/img-4.jpg" alt="cake" />
-                     <img src="/img-5.jpg" alt="cake" />
-                     <img src="/img-6.jpg" alt="cake" />
-                     <img src="/img-7.jpg" alt="cake" />
-                     <img src="/img-8.jpg" alt="cake" />
-                     <img src="/img-9.jpg" alt="cake" />
-                     <img src="/img-10.jpg" alt="cake" />
-                     <img src="/img-11.jpg" alt="cake" />
+                     <img src="/img-3.jpg" alt="cake"/>
+                     <img src="/img-4.jpg" alt="cake"/>
+                     <img src="/img-5.jpg" alt="cake"/>
+                     <img src="/img-6.jpg" alt="cake"/>
+                     <img src="/img-7.jpg" alt="cake"/>
+                     <img src="/img-8.jpg" alt="cake"/>
+                     <img src="/img-9.jpg" alt="cake"/>
+                     <img src="/img-10.jpg" alt="cake"/>
+                     <img src="/img-11.jpg" alt="cake"/>
                      </div>  
                                 
               </div>
@@ -80,7 +80,7 @@ export default function Home() {
             <section className="special">
               
               <div className="special-img">
-                <img src="/img-12.png" alt="cake" />
+                <img src="/img-12.png" alt="cake"/>
                  </div>
          
          

@@ -12,7 +12,7 @@ export default function Contact() {
           <section className="shop">
               
                    <div className="shop-img">
-                     <img src="/img-12.png" alt="cake" />
+                     <img src="/img-12.png" alt="cake"/>
                       </div>
               
               
@@ -47,7 +47,7 @@ export default function Contact() {
                  </div>
 
                  <div className="about-shop-img">
-                <img src="/about-2.jpeg" alt="shop" />
+                <img src="/about-2.jpeg" alt="shop"/>
                  </div>
          
              </section>
@@ -56,7 +56,7 @@ export default function Contact() {
             {/* 4th section*/}
             <section className="about-shop">
             <div className="about-shop-img">
-                <img src="/shop-2.webp" alt="shop" />
+                <img src="/shop-2.webp" alt="shop"/>
                  </div>
 
             <div className="about-shop-1">   

@@ -25,7 +25,7 @@ export default function Procedure() {
               </div>
 
               <div className="service-img">
-                     <img src="/service-1.jpg" alt="cake" />
+                     <img src="/service-1.jpg" alt="cake"/>
                       </div>
 
           </section>
@@ -45,7 +45,7 @@ export default function Procedure() {
           <section className="service-1">
               
                 <div className="service-1-img">
-                     <img src="/service-2.jpeg" alt="cake" />
+                     <img src="/service-2.jpeg" alt="cake"/>
                       </div>
 
               <div className="service-1-content">
@@ -69,7 +69,7 @@ export default function Procedure() {
             </div>
 
             <div className="service-1-img">
-                   <img src="/service-3.jpeg" alt="cake" />
+                   <img src="/service-3.jpeg" alt="cake"/>
                     </div>
 
         </section>
@@ -78,7 +78,7 @@ export default function Procedure() {
             <section className="service-1">
               
               <div className="service-1-img">
-                   <img src="/service-4.jpeg" alt="cake" />
+                   <img src="/service-4.jpeg" alt="cake"/>
                     </div>
 
             <div className="service-1-content">
@@ -102,7 +102,7 @@ export default function Procedure() {
             </div>
 
             <div className="service-1-img">
-                   <img src="/service-5.jpg" alt="cake" />
+                   <img src="/service-5.jpg" alt="cake"/>
                     </div>
         </section>
 
@@ -110,7 +110,7 @@ export default function Procedure() {
             <section className="service-1">
               
               <div className="service-1-img">
-                   <img src="/service-6.jpeg" alt="cake" />
+                   <img src="/service-6.jpeg" alt="cake"/>
                     </div>
 
             <div className="service-1-content">
@@ -135,7 +135,7 @@ export default function Procedure() {
             </div>
             
             <div className="service-1-img">
-                   <img src="/service-7.jpeg" alt="cake" />
+                   <img src="/service-7.jpeg" alt="cake"/>
                     </div>
         </section>
 
@@ -143,7 +143,7 @@ export default function Procedure() {
               <section className="service-1">
               
               <div className="service-1-img">
-                   <img src="/service-8.jpeg" alt="cake" />
+                   <img src="/service-8.jpeg" alt="cake"/>
                     </div>
 
             <div className="service-1-content">
@@ -167,7 +167,7 @@ export default function Procedure() {
             </div>
 
             <div className="service-1-img">
-                   <img src="/service-9.jpeg" alt="cake" />
+                   <img src="/service-9.jpeg" alt="cake"/>
                     </div>
         </section>
 
@@ -175,7 +175,7 @@ export default function Procedure() {
               <section className="service-1">
               
               <div className="service-1-img">
-                   <img src="/service-10.png" alt="cake" />
+                   <img src="/service-10.png" alt="cake"/>
                     </div>
 
             <div className="service-1-content">
@@ -199,7 +199,7 @@ export default function Procedure() {
             </div>
             
             <div className="service-1-img">
-                   <img src="/service-11.jpeg" alt="cake" />
+                   <img src="/service-11.jpeg" alt="cake"/>
                     </div>
 
         </section>
@@ -208,7 +208,7 @@ export default function Procedure() {
               <section className="service-1">
               
               <div className="service-1-img">
-                   <img src="/service-12.jpeg" alt="cake" />
+                   <img src="/service-12.jpeg" alt="cake"/>
                     </div>
 
             <div className="service-1-content">
@@ -233,7 +233,7 @@ export default function Procedure() {
             </div>
              
             <div className="service-1-img">
-                   <img src="/service-13.jpeg" alt="cake" />
+                   <img src="/service-13.jpeg" alt="cake"/>
                     </div>
         </section>
 

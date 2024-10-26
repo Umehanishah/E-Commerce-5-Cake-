@@ -12,7 +12,7 @@ export default function About() {
           <section className="about">
               
                    <div className="about-img">
-                     <img src="/about-1.jpg" alt="cake" />
+                     <img src="/about-1.jpg" alt="cake"/>
                       </div>
               
               
@@ -47,7 +47,7 @@ export default function About() {
                  </div>
 
                  <div className="about-shop-img">
-                <img src="/about-2.jpeg" alt="shop" />
+                <img src="/about-2.jpeg" alt="shop"/>
                  </div>
          
              </section>
@@ -56,7 +56,7 @@ export default function About() {
             <section className="special">
               
               <div className="special-img">
-                <img src="/about-3.jpg" alt="cake" />
+                <img src="/about-3.jpg" alt="cake"/>
                  </div>
          
          
@@ -91,15 +91,15 @@ export default function About() {
                  
                     </div>
                     <div>
-                     <img src="/img-3.jpg" alt="cake" />
-                     <img src="/img-4.jpg" alt="cake" />
-                     <img src="/img-5.jpg" alt="cake" />
-                     <img src="/img-6.jpg" alt="cake" />
-                     <img src="/img-7.jpg" alt="cake" />
-                     <img src="/img-8.jpg" alt="cake" />
-                     <img src="/img-9.jpg" alt="cake" />
-                     <img src="/img-10.jpg" alt="cake" />
-                     <img src="/img-11.jpg" alt="cake" />
+                     <img src="/img-3.jpg" alt="cake"/>
+                     <img src="/img-4.jpg" alt="cake"/>
+                     <img src="/img-5.jpg" alt="cake"/>
+                     <img src="/img-6.jpg" alt="cake"/>
+                     <img src="/img-7.jpg" alt="cake"/>
+                     <img src="/img-8.jpg" alt="cake"/>
+                     <img src="/img-9.jpg" alt="cake"/>
+                     <img src="/img-10.jpg" alt="cake"/>
+                     <img src="/img-11.jpg" alt="cake"/>
                      </div>  
                                 
               </div>
